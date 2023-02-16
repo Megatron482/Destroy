@@ -1,1 +1,7 @@
-Hi
+#inlcude <stdio.h> 
+int main()
+{ int number1, number2,sum
+printf("Enter 2 Digits");
+scanf("%d %d",&number1,&number2);
+// calculating sum 
+sum = num *nu 
